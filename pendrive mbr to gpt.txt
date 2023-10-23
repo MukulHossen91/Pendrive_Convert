@@ -1,0 +1,20 @@
+# disk clean
+
+step1 - open cmd
+step2 - diskpart
+step3 - list disk (disk number)
+step4 - clean
+step5 - clean
+step6 - convert gpt or mbr
+
+# Now disk format
+
+step1 - open cmd
+step2 - diskpart
+step3 - list disk
+step3 - select disk (disk number)
+step4 - list partition
+step5 - select partition (partition number)
+step6 - format fs=ntfs
+step7 - 100 percent completed
+
